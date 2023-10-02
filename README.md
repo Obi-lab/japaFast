@@ -1,0 +1,2 @@
+# japaFast
+JapaFast Travel website
